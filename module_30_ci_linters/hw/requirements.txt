@@ -1,5 +1,10 @@
 Flask==2.3.3
 Flask-SQLAlchemy==3.0.5
 pytest==7.4.0
+requests==2.32.3
 factory-boy==3.2.1
 Faker==19.1.0
+flake8==7.3.0
+isort==5.13.2
+black==24.8.0
+mypy==1.11.1
